@@ -26,7 +26,7 @@
   var messages = {
     fa:      "اندروید، یک سکّوی بسته خواهد شد!",
     ar:      "سيصبح نظام أندرويد منصة مغلقة في",
-    en:      "Android will become a locked-down platform",
+    en:      "Android will become a locked-down platform in",
     ca:      "Android es convertir\u00E0 en una plataforma tancada",
     cs:      "Android will become a locked-down platform in",
     de:      "Android wird eine geschlossene Plattform werden.",
