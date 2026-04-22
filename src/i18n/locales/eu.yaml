@@ -42,10 +42,10 @@ hero_kicker: "Aplikazio guztiak eta gailu guztiak, mundu osoan zehar, bazterketa
 # What Google is doing
 what_heading: "Zer ari den Google egiten"
 what_intro: >-
-  2025eko abustuan, Google-ek irizpide berri bat [adierazi zuen](https://developer.android.com/developer-verification): 2026 irailetik hasita, **Android aplikazioen garatzaile guztiek Googlekin izena emanda egon behar dira** beraien softwarea edozein gailuetan instalatu ahal izan aurretik. Ez bakarrik Play Store-eko aplikazioak: apliakzio guztiak. Hau, lagunen artean partekatutako aplikazioak, [F-Droid](https://f-droid.org) bidez banatutakoak, afizioantuek erabilera pertsonalerako egindakoak barneratzen ditu. Garatzaile independenteak, talde komunitarioak eta afizionatuak beraien softwarea garatzeko eta banatzeko aukeratik ukatuak izango dira.
+  2025eko abustuan, Google-ek irizpide berri bat [adierazi zuen](https://developer.android.com/developer-verification): 2026 irailetik hasita, **Android aplikazioen garatzaile guztiek Googlekin izena emanda egon behar dira** beraien softwarea edozein gailuetan instalatu ahal izan aurretik. Ez bakarrik Play Store-eko aplikazioak: aplikazio guztiak. Hau, lagunen artean partekatutako aplikazioak, [F-Droid](https://f-droid.org) bidez banatutakoak, afizionatuek erabilera pertsonalerako egindakoak barneratzen ditu. Garatzaile independenteak, talde komunitarioak eta afizionatuak beraien softwarea garatzeko eta banatzeko aukeratik ukatuak izango dira.
 what_registration: "Izena emateako irizpideak:"
 what_req_fee: "Google-i kuota bat oraintzea"
-what_req_terms: "Google-en zehaztapen eta baldinztak onartzea"
+what_req_terms: "Google-en zehaztapen eta baldintzak onartzea"
 what_req_id: "Zure Nortasun Agiri Nazionala ematea"
 what_req_signing: "Zure sinatzeko klabe pribatua egiaztatzeko probak ematea"
 what_req_appids: "Aplikazioaren oraingo eta etorkizuneko identifikatzaile guztiak zerrendatzea"
@@ -65,7 +65,7 @@ impact_gov_heading: "Gobernuak eta gizarte zibila"
 impact_gov_p1: >-
   Google-ek erregimen autoritarioek egindako aplikazioen ezabaketa eskaerak betetzeko [dokumentatuta dagoen historia](https://www.aclu.org/news/free-speech/app-store-oligopoly) bat dauka. Programa honekin, zure herrialdearen instituzioetan erabiltzen den softwarea erantzunkizun gabeko atzerritarreko enpresa bakar baten mesetara existituko da.
 impact_gov_p2: >-
-  [EFF-k dio](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) apliakzioen gaineko kontrol hau "internetaren zentsurara amaierarik gabe hedatzen den bidea" dela.
+  [EFF-k dio](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) aplikazioen gaineko kontrol hau "internetaren zentsurara amaierarik gabe hedatzen den bidea" dela.
 
 # Advanced flow
 flow_heading: "Google-en \"ihesbidea\" iruzur bat da"
@@ -82,7 +82,7 @@ flow_step8: "Aukeratu \"aldi baterako baimendu\" (7 egun) edo \"behin betiko ona
 flow_step9: "Konfirmatu, berriz, \"arriskuak\" ulertzen dituzula"
 flow_summary: "Bederatzi pauso. 24 orduko derrigorrezko hozte aldia. *Zu jabe zaren gailu batean softwarea instalatzeko.*"
 flow_detail: >-
-  Oraindik eta okerrago: Prozesu honek **Google Play Services**-en zehar gertatzen da erabat, ez Androideko sistema eragilean. Google-ek aldatu dezake, areagotu dezake, edo edozein momentutan deseuztatu dezake. Gaurkoz, ez du ez betarik, ez aurrerapenik, ez proba bertsioarik igorri. Blog-post bat eta maketa batzuk bezala baino ez da existitzen.   
+  Oraindik eta okerrago: Prozesu honek **Google Play Services**-en zehar gertatzen da erabat, ez Android sistema eragilean. Google-ek aldatu dezake, areagotu dezake, edo edozein momentutan deseuztatu dezake. Gaurkoz, ez du ez betarik, ez aurrerapenik, ez proba bertsioarik igorri. Blog-post bat eta maketa batzuk bezala baino ez da existitzen.   
 
 # Social button labels
 spread_label_x: "X-n argitaratu"
