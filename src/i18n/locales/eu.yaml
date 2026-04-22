@@ -42,7 +42,7 @@ hero_kicker: "Aplikazio guztiak eta gailu guztiak, mundu osoan zehar, bazterketa
 # What Google is doing
 what_heading: "Zer ari den Google egiten"
 what_intro: >-
-  2025eko abustuan, Google-ek irizpide berri bat [adierazi zuen](https://developer.android.com/developer-verification): 2026 irailetik hasita, **Android aplikazioen garatzaile guztiek Googlekin izena emanda egon behar dira" beraien softwarea edozein gailuetan instalatu ahal izan aurretik. Ez bakarrik Play Store-eko aplikazioak: apliakzio guztiak. Hau, lagunen artean partekatutako aplikazioak, [F-Droid](https://f-droid.org) bidez banatutakoak, afizioantuek erabilera pertsonalerako egindakoak barneratzen ditu. Garatzaile independenteak, talde komunitarioak eta afizionatuak beraien softwarea garatzeko eta banatzeko aukeratik ukatuak izango dira.
+  2025eko abustuan, Google-ek irizpide berri bat [adierazi zuen](https://developer.android.com/developer-verification): 2026 irailetik hasita, **Android aplikazioen garatzaile guztiek Googlekin izena emanda egon behar dira** beraien softwarea edozein gailuetan instalatu ahal izan aurretik. Ez bakarrik Play Store-eko aplikazioak: apliakzio guztiak. Hau, lagunen artean partekatutako aplikazioak, [F-Droid](https://f-droid.org) bidez banatutakoak, afizioantuek erabilera pertsonalerako egindakoak barneratzen ditu. Garatzaile independenteak, talde komunitarioak eta afizionatuak beraien softwarea garatzeko eta banatzeko aukeratik ukatuak izango dira.
 what_registration: "Izena emateako irizpideak:"
 what_req_fee: "Google-i kuota bat oraintzea"
 what_req_terms: "Google-en zehaztapen eta baldinztak onartzea"
@@ -63,10 +63,7 @@ impact_dev_p2: >-
   [F-Droid](https://f-droid.org), milaka kode aske eta irekiko aplikazioen etxea dena, [mehatxu "existentziala"](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) deitu du. Cory Doctorow-ek ["Darth Android"](https://pluralistic.net/2025/09/01/fulu/) deitzen du.
 impact_gov_heading: "Gobernuak eta gizarte zibila"
 impact_gov_p1: >-
-  Google has a [documented track record](https://www.aclu.org/news/free-speech/app-store-oligopoly) of complying when authoritarian regimes demand app removals. With this program, the software that runs your country's institutions will exist at the pleasure of a single unaccountable foreign corporation.
-  Google-ek erregimen autoritarioek egindako aplikazioen ezabaketa eskaerak betetzeko [dokumentatutako historia](https://www.aclu.org/news/free-speech/app-store-oligopoly) bat dauka.
-  . With this program, the software that runs your country's institutions will exist at the pleasure of a single unaccountable foreign corporation.
-  Programa honekin, zure herrialdearen instituzioetan erabiltzen den softwarea atzerritarreko enpresa bakar baten menpe existituko da.
+  Google-ek erregimen autoritarioek egindako aplikazioen ezabaketa eskaerak betetzeko [dokumentatuta dagoen historia](https://www.aclu.org/news/free-speech/app-store-oligopoly) bat dauka. Programa honekin, zure herrialdearen instituzioetan erabiltzen den softwarea erantzunkizun gabeko atzerritarreko enpresa bakar baten mesetara existituko da.
 impact_gov_p2: >-
   [EFF-k dio](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship) apliakzioen gaineko kontrol hau "internetaren zentsurara amaierarik gabe hedatzen den bidea" dela.
 
